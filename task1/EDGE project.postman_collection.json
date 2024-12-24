@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "db89747d-4cdb-4309-97e2-2208a299d6d7",
+		"name": "EDGE project",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40628143"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

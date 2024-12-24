@@ -1,0 +1,63 @@
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\EDGE Project.exe
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\EDGE Project.deps.json
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\EDGE Project.runtimeconfig.json
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\EDGE Project.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\EDGE Project.pdb
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\CsvHelper.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ExtentReports.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\RazorEngine.NetCore.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\WebDriver.Support.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\WebDriver.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\System.Reactive.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EDGE Project2\EDGE Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.csproj.AssemblyReference.cache
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.AssemblyInfoInputs.cache
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.AssemblyInfo.cs
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.csproj.CoreCompileInputs.cache
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Pro.9A831BFE.Up2Date
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.dll
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\refint\EDGE Project.dll
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.pdb
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\EDGE Project.genruntimeconfig.cache
+D:\EDGE Project2\EDGE Project\obj\Debug\net8.0\ref\EDGE Project.dll
